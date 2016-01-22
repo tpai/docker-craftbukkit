@@ -4,5 +4,5 @@ This docker image provides a quick launch of craftbukkit server that the version
 
 To simply run this server, type:
 
-    $ docker pull tonypai/minecraft
-	$ docker run -p 25565:25565 --name minecraft tonypai/minecraft
+    $ docker pull tonypai/minecraft-server
+    $ docker run -d -p 25565:25565 --name minecraft tonypai/minecraft-server
