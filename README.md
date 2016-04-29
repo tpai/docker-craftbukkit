@@ -1,8 +1,11 @@
 # Docker Craftbukkit Server
 
-This docker image provides a quick launch of craftbukkit server that the version is 1.7.9, it's original and with no mods.
+The fast way to build your own craftbukkit server!
 
-To simply run this server, type:
+**Pull**
 
     $ docker pull tonypai/docker-craftbukkit
+
+**Run**
+
     $ docker run -d -p 25565:25565 --name cb tonypai/docker-craftbukkit
