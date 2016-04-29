@@ -1,4 +1,4 @@
-# Auto-Build Minecraft Server
+# Docker Craftbukkit Server
 
 This docker image provides a quick launch of craftbukkit server that the version is 1.7.9, it's original and with no mods.
 
